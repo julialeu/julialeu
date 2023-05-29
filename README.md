@@ -1,7 +1,4 @@
-### Hi there beautiful people!! 👋
-
-<!--
-**julialeu/julialeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there beautiful people!! 👋 ✨ ✨ 
 
 My name is Julia and i am junior web developer specialising in backend, I have a year of experience in a software development company (SaaS) to digitise the logistic sector working with technologies such as PHP, a framework based on Laravel, Mysql and React.
 
