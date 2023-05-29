@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there beautiful people!! 👋
 
 <!--
 **julialeu/julialeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Julia and i am junior web developer specialising in backend, I have a year of experience in a software development company (SaaS) to digitise the logistic sector working with technologies such as PHP, a framework based on Laravel, Mysql and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have also worked on other projects with tools such as Java, C#, Javascript, CSS, HTML, vue.js and Docker.
+
+- 🌱 I am currently working on small projects to deep in my knowledge in Laravel, frontend, SOLID and DDD principles.
+- 🤔 I’m looking for help with finding a new job
+- 📫 How to reach me: linkedin.com/in/julia-leuenberger
+- Here you are a list where i will post the link to my finished projects (that will get larger over time :) )
+
+      * https://64748fe437f6b06d0980f0c9--sprightly-haupia-602983.netlify.app/
+
+
+- ⚡ Fun fact: i'm crazy about cats!
+                            ∧,,,∧
+                          (  ̳• · • ̳)
+                          /    づ ♡ ♡ ♡ ♡ ♡ !!
