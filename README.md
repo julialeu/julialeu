@@ -12,7 +12,4 @@ I have also worked on other projects with tools such as Java, C#, Javascript, CS
       * https://64748fe437f6b06d0980f0c9--sprightly-haupia-602983.netlify.app/
 
 
-- ⚡ Fun fact: i'm crazy about cats!
-                            ∧,,,∧
-                          (  ̳• · • ̳)
-                          /    づ ♡ ♡ ♡ ♡ ♡ !!
+- ⚡ Fun fact: i'm crazy about cats 🐱 ♡ ♡ ♡ ♡ ♡ !!
