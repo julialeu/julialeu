@@ -32,8 +32,7 @@ A full-stack platform built for tunnel boring machine operators.
 
 ## ✨ What I'm Currently Working On
 - Improving backend logic with Python and exploring web scraping  
-- Building small utilities and automations with Laravel  
-- Participating in open-source discussions and exploring GitHub Actions  
+- Building small utilities and automations with Laravel
 
 ---
 
