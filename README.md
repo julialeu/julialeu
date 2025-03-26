@@ -14,7 +14,7 @@ Currently expanding my skills in **Python** and **Node.js** while always pushing
 - **Frontend:** Vue.js, React (basic), Plotly.js  
 - **Backend:** Laravel, FastAPI, REST APIs  
 - **Database:** MySQL  
-- **DevOps:** Docker, AWS S3, DNS Management  
+- **DevOps:** Docker, 
 - **Version Control:** Git, GitHub, Bitbucket  
 - **Other:** Agile (Scrum), JIRA, SOLID, Hexagonal Architecture  
 
