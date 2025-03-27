@@ -4,7 +4,7 @@
 
 Hi there! I'm Julia, a passionate Full Stack Developer based in Barcelona 🇪🇸 with over 2 years of hands-on experience building efficient, scalable, and elegant web applications. I love working on the backend but never shy away from crafting clean, user-friendly interfaces.
 
-Currently expanding my skills in **Python** and **Node.js** while always pushing for clean architecture and maintainable code.
+Currently expanding my skills in **Laravel** and **react** and **python** while always pushing for clean architecture and maintainable code.
 
 ---
 
