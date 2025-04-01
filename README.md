@@ -38,7 +38,6 @@ A full-stack platform built for tunnel boring machine operators.
 
 ## 📫 Let’s Connect!
 
-- 🌐 [www.leu-juls.com](https://www.leu-juls.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/julia-leuenberger/)  
 - 📧 leuenberger2101@gmail.com  
 - 🧑‍💻 [GitHub](https://github.com/julialeu)
